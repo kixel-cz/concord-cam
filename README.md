@@ -21,4 +21,4 @@ Report problems in [Issues](https://github.com/kixel-cz/concord-cam/issues). Inc
 
 ## Development
 
-The macOS app shares its CAM engine, project format, and user interface with ConcordOS. Release notes identify the ConcordOS source commit used for each build.
+The macOS app shares its CAM engine, project format, and user interface with ConcordOS. Release notes identify the ConcordOS source commit used for each build. The app icon is the ConcordOS emblem on the system's dark tile with the app name set below it.
