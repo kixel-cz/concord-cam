@@ -4,9 +4,11 @@ Concord CAM is a standalone macOS app for preparing CNC jobs, simulating materia
 
 ## Download
 
-The first public preview is being prepared. When it is ready, the macOS ZIP will be available under [Releases](https://github.com/kixel-cz/concord-cam/releases).
+Download the macOS preview ZIP from [Releases](https://github.com/kixel-cz/concord-cam/releases).
 
 The preview targets **macOS 14 or later on Apple Silicon**. Unzip the download, move **Concord CAM.app** to Applications, and open it from Finder.
+
+To check the installed version and build number, choose **Concord CAM → About Concord CAM** in version 0.1.2 or later.
 
 ## First job
 
