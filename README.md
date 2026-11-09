@@ -13,7 +13,7 @@ To check the installed version and build number, choose **Concord CAM → About 
 ## First job
 
 1. Create a project or open a saved `.cam` file. Keep its model or drawing files beside it when moving a project between computers.
-2. Import your model from the **Project** menu. For a milling job, set up the stock, choose a material, and add your cutter under **Tools → Library**.
+2. Import your model from the **Project** menu and set up the stock. CAM 0.1.2 includes a starter tool and material library for the Z1. Choose the material on **Model**. Under **Tools → Library…**, check the tool number and installed geometry, then mark the cutters you use as **In the machine now**. Add or import any other cutters you use.
 3. Generate the toolpath and play the material-removal simulation. Use **Project → Export G-code** to save the verified program for offline use.
 4. To connect to a Z1, put the Mac and the machine on the same local network. Open **Machine**, select the controller or enter its IP address, and click **Connect**. Allow local network access if macOS prompts you.
 
